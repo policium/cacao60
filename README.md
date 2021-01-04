@@ -1,9 +1,9 @@
 # Cacao60%（開発中）
-![PCB](https://raw.githubusercontent.com/policium/Cacao60/main/images/Cacao60_back.png)  
+![PCB](https://raw.githubusercontent.com/policium/Cacao60/master/images/Cacao60_back.png)  
 　DIYといったら英語配列という風潮（制約？）に一石投じるため、妥協無しで全部盛りの日本語配列モバイルキーボードを目指します。
 ### ～要件～
 - **日本語配列**  
-![KLE](https://raw.githubusercontent.com/policium/Cacao60/main/images/Cacao60_kle.jpg)  
+![KLE](https://raw.githubusercontent.com/policium/Cacao60/master/images/Cacao60_kle.jpg)  
 　よくある60%の日本語配列キーボードはZ列を0.25U左にずらしてカーソルキーを右下に凸形に配置するスペースを確保しています。しかし慣れはあるもののZ列の微妙なズレがストレスになるのも事実。日本語配列でもカーソルキーを諦めてZ列を普通の配置にしたキーボードが幾つも出ています。硬派な向きには60%キーボードはカーソル無しが基本みたいです。  
 　しかし私は軟弱なのでカーソルキーが無くなると日本語変換の為にFnキーやCtrlキーを押す事になり困ってしまいます。カーソルキーを凸ではなくViのHJKL方式で横に並べる事にして右下に何とか入れます。こうすることで人差し指で←、小指で→に最短距離でアクセス出来るため凸配列より日本語変換が捗ることを狙っています。  
 　今回はこの配列を日本語キーキャップの数少ない選択肢の一つMajestouch MINILA Air用と108キー用のABSキーキャップを混ぜて利用します。やはり普通の配列はDSA系のフラットプロファイルではなくOEM系のスカルプチャードプロファイルが合うと思います。FILCO様お願いなのでMINILA Air用のキーキャップを暫く販売しておいてください。  
@@ -25,5 +25,5 @@
 　HHKB、MINILAと差別化したいため充電機能付きとします。1回の充電で1週間程度は使いたいところ。
 
 - **バックライト、アンダーグロー両対応**  
-![PCB](https://raw.githubusercontent.com/policium/Cacao60/main/images/Cacao60_front.png)  
+![PCB](https://raw.githubusercontent.com/policium/Cacao60/master/images/Cacao60_front.png)  
 　USB接続時はとりあえず全部盛りRGBで光らせたいです。全部光らせるとUSBの電力容量を超えそうなのでSK6812より消費が少ないSK6805を採用します。LEDが小さい為、スイッチのLED窓にギリギリ収まります。QMKのRGB Matrixにも対応したい。対応ファームはどうするか？
