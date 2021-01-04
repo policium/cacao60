@@ -26,4 +26,4 @@
 
 - **バックライト、アンダーグロー両対応（RGB）**  
 ![PCB](https://raw.githubusercontent.com/policium/Cacao60/master/images/Cacao60_front.png)  
-　USB接続時はとりあえず全部盛りRGBで光らせたいです。全部光らせるとUSBの電力容量を超えそうなのでSK6812より消費が少ないSK6805を採用します。LEDが小さい為、スイッチのLED窓にギリギリ収まります。QMKのRGB Matrixにも対応したい。対応ファームはどうするか？
+　USB接続時はとりあえず全部盛りRGBで光らせたいです。全部光らせるとUSBの電力容量を超えそうなのでSK6812より消費が少ないSK6805を採用します。LEDが小さい為、スイッチのLED窓にギリギリ収まります。QMKのRGB Matrixにも対応したいです。対応ファームはどうするか？
