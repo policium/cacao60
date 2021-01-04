@@ -24,6 +24,6 @@
 - **LiPo電池充電機能**  
 　HHKB、MINILAと差別化したいため充電機能付きとします。1回の充電で1週間程度は使いたいところ。
 
-- **バックライト、アンダーグロー両対応**  
+- **バックライト、アンダーグロー両対応（RGB）**  
 ![PCB](https://raw.githubusercontent.com/policium/Cacao60/master/images/Cacao60_front.png)  
 　USB接続時はとりあえず全部盛りRGBで光らせたいです。全部光らせるとUSBの電力容量を超えそうなのでSK6812より消費が少ないSK6805を採用します。LEDが小さい為、スイッチのLED窓にギリギリ収まります。QMKのRGB Matrixにも対応したい。対応ファームはどうするか？
