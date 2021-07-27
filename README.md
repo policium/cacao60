@@ -12,7 +12,7 @@ MDBT50
 Kailh Choc V2専用
 スタビライザーはCostar専用（3U用のワイヤーは別途準備する必要があります）
 
-- **キーキャップ**
+- **キーキャップ**  
 ![KLE](https://raw.githubusercontent.com/policium/Cacao60/master/images/Cacao60_kle.jpg)  
 Majestouch MINILA Air用と108キー用の日本語配列ABSキーキャップを混ぜて利用
 
