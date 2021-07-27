@@ -2,7 +2,7 @@
 ![PCB](https://raw.githubusercontent.com/policium/Cacao60/master/images/Cacao60_back.png)  
 日本語配列の無線キーボードです。
 
-- **MCU**
+- **MCU**  
 MDBT50
 
 - **ケース**  
@@ -23,5 +23,5 @@ Majestouch MINILA Air用と108キー用の日本語配列ABSキーキャップ�
 ![PCB](https://raw.githubusercontent.com/policium/Cacao60/master/images/Cacao60_front.png)
 SK6805 2427を用意してください
 
-- **ファームウェア**
+- **ファームウェア**  
 ZMKやsekigon氏のQMK Firmware nRF52ブランチで動作します
