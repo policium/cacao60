@@ -1,0 +1,85 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AO3401A
+D -4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf
+$ENDCMP
+#
+$CMP BSS83P
+D -0.33A Id, -60V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.farnell.com/datasheets/1835997.pdf
+$ENDCMP
+#
+$CMP BSS84
+D -0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://assets.nexperia.com/documents/data-sheet/BSS84.pdf
+$ENDCMP
+#
+$CMP DMG2301L
+D -3A Id, -20V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F https://www.diodes.com/assets/Datasheets/DMG2301L.pdf
+$ENDCMP
+#
+$CMP DMG2305
+D -5A Id, -20V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+$ENDCMP
+#
+$CMP IRLML5203
+D -3.0A Id, -30V Vds, P-Channel HEXFET Power MOSFET, 98mOhm Rds, SOT-23
+K P-Channel MOSFET
+F https://www.infineon.com/dgdl/irlml5203pbf.pdf?fileId=5546d462533600a40153566868da261d
+$ENDCMP
+#
+$CMP IRLML6402
+D -3.7A Id, -20V Vds, P-Channel MOSFET, 65mOhm Rds, SOT-23
+K P-Channel MOSFET
+F https://www.infineon.com/dgdl/irlml6402pbf.pdf?fileId=5546d462533600a401535668d5c2263c
+$ENDCMP
+#
+$CMP IRLML9301
+D -3.6A Id, -30V Vds, P-Channel HEXFET Power MOSFET, 64mOhm Rds, SOT-23
+K P-Channel MOSFET
+F https://www.infineon.com/dgdl/irlml9301pbf.pdf?fileId=5546d462533600a401535668e5e42640
+$ENDCMP
+#
+$CMP MDBT50Q-1MV2
+D nRF52840 Module MDBT50Q FCC ID Granted
+F https://www.raytac.com/download/index.php?index_id=43
+$ENDCMP
+#
+$CMP NTR2101P
+D -3.7A Id, -8V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.onsemi.com/pub/Collateral/NTR2101P-D.PDF
+$ENDCMP
+#
+$CMP SK6805
+D RGB LED with integrated controller
+K RGB LED NeoPixel Nano addressable
+F https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
+$ENDCMP
+#
+$CMP Si2319CDS
+D -4.4A Id, -40V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.vishay.com/docs/66709/si2319cd.pdf
+$ENDCMP
+#
+$CMP Si2371EDS
+D -3.6A Id, -30V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.vishay.com/docs/63924/si2371eds.pdf
+$ENDCMP
+#
+$CMP VP0610T
+D -0.18A Id, -60V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+#End Doc Library
